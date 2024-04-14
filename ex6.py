@@ -1,4 +1,4 @@
-#6) Elaborar um programa Python para calcular as raízes da equação do segundo grau.
+##6) Elaborar um programa Python para calcular as raízes da equação do segundo grau.
 import math
 
 def calcula_raiz(a,b,c):
